@@ -1,0 +1,24 @@
+.video{
+    width: 100%;
+    position: relative;
+}
+.playpause {
+    background-image:url(./play-1173551__340.webp);
+    background-repeat:no-repeat;
+    width:auto;
+    height:15%;
+    position:absolute;
+    left:85%;
+    right:6%;
+    top:-49%;
+    bottom:14%;
+    margin:auto;
+    background-size:contain;
+    background-position: center;
+}
+
+.gallary-btn{
+    position: absolute;
+    left: 30px;
+    top:30px;
+}
